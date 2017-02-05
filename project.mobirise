@@ -181,10 +181,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/valentine-wine-and-chocolate-1400x1134.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "Contact Us",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -291,10 +293,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/valentine-wine-and-chocolate-1400x1134.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "Contact Us",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -555,7 +559,7 @@
           "title1": "Wine Pairing",
           "subtitle1": "Enchantment",
           "caption1": "wine and chocolate<br>wine and canapé<br>wine and pate<br>wine and cheese<br>wine and pizza<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"Contact Us\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Enter the Enchantment</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"Book Your Party\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Enter the Enchantment</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
@@ -571,7 +575,7 @@
           "title2": "Champagne Pairing",
           "subtitle2": "Romance",
           "caption2": "bubbly and nougat<br>bubbly and chocolate<br>bubbly and cake<br>bubbly and meringue<br><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"Contact Us\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Spark The Romance</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"Book Your Party\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Spark The Romance</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/mbr-1-600x400.jpg",
@@ -587,7 +591,7 @@
           "title3": "Brandy Pairing",
           "subtitle3": "Stature",
           "caption3": "Brandy and biltong<br><br><br><br><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"Contact Us\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Grow Your Stature</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"Book Your Party\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Grow Your Stature</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/mbr-2-600x400.jpg",
@@ -603,7 +607,7 @@
           "title4": "Whiskey Pairing",
           "subtitle4": "Decadence",
           "caption4": "whisky and cigars<br>whisky and biltong<br><br><br><br>",
-          "button4": "<a data-app-btn=\"true\" href=\"Contact Us\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Enjoying the Decadence</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"Book Your Party\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Enjoying the Decadence</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/mbr-3-600x400.jpg",
@@ -619,7 +623,7 @@
           "title5": "Beer Pairing",
           "subtitle5": "Patriotic",
           "caption5": "beer and biltong<br>beer and canapé<br><br><br><br>",
-          "button5": "<a data-app-btn=\"true\" href=\"Contact Us\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Show Your Pride</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"Book Your Party\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Show Your Pride</a>",
           "media6": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
@@ -729,10 +733,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/valentine-wine-and-chocolate-1400x1134.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "Contact Us",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -930,10 +936,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/valentine-wine-and-chocolate-1400x1134.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "Contact Us",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
