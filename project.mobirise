@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Contact Us",
+    "currentPage": "Our Packages",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -193,7 +193,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tasty Pairs</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Meet the Party Creators\">Meet the Party Creators</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Packages\">Our Packages</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact Us\">Book Your Party</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"Contact Us\">Contact Us</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Meet the Party Creators\">Meet the Party Creators</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Packages\">Our Packages</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact Us\">Book Your Party</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"Contact Us\">Contact Us</a></li>"
         }
       ]
     },
@@ -303,7 +303,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tasty Pairs</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Meet the Party Creators\">Meet the Party Creators</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Packages\">Our Packages</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact Us\">Book Your Party</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"Contact Us\">Contact Us</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Meet the Party Creators\">Meet the Party Creators</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Packages\">Our Packages</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact Us\">Book Your Party</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"Contact Us\">Contact Us</a></li>"
         },
         {
           "_styles": {
@@ -450,10 +450,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/valentine-wine-and-chocolate-157x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "Book your party today",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -462,7 +464,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tasty Pairs</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Meet the Party Creators\">Meet the Party Creators</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Packages\">Our Packages</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact Us\">Book Your Party</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"Contact Us\">Contact Us</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Meet the Party Creators\">Meet the Party Creators</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Packages\">Our Packages</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact Us\">Book Your Party</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"Contact Us\">Contact Us</a></li>"
         },
         {
           "_styles": {
@@ -553,7 +555,7 @@
           "title1": "Wine Pairing",
           "subtitle1": "Enchantment",
           "caption1": "wine and chocolate<br>wine and canapé<br>wine and pate<br>wine and cheese<br>wine and pizza<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"Our Packages\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Enter the Enchantment</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"Contact Us\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Enter the Enchantment</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
@@ -569,7 +571,7 @@
           "title2": "Champagne Pairing",
           "subtitle2": "Romance",
           "caption2": "bubbly and nougat<br>bubbly and chocolate<br>bubbly and cake<br>bubbly and meringue<br><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"Our Packages\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Spark The Romance</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"Contact Us\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Spark The Romance</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/mbr-1-600x400.jpg",
@@ -585,7 +587,7 @@
           "title3": "Brandy Pairing",
           "subtitle3": "Stature",
           "caption3": "Brandy and biltong<br><br><br><br><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"Our Packages\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Grow Your Stature</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"Contact Us\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Grow Your Stature</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/mbr-2-600x400.jpg",
@@ -601,7 +603,7 @@
           "title4": "Whiskey Pairing",
           "subtitle4": "Decadence",
           "caption4": "whisky and cigars<br>whisky and biltong<br><br><br><br>",
-          "button4": "<a data-app-btn=\"true\" href=\"Our Packages\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Enjoying the Decadence</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"Contact Us\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Enjoying the Decadence</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/mbr-3-600x400.jpg",
@@ -617,7 +619,7 @@
           "title5": "Beer Pairing",
           "subtitle5": "Patriotic",
           "caption5": "beer and biltong<br>beer and canapé<br><br><br><br>",
-          "button5": "<a data-app-btn=\"true\" href=\"Our Packages\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Show Your Pride</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"Contact Us\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Show Your Pride</a>",
           "media6": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
@@ -739,7 +741,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tasty Pairs</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Meet the Party Creators\">Meet the Party Creators</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Packages\">Our Packages</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact Us\">Book Your Party</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"Contact Us\">Contact Us</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Meet the Party Creators\">Meet the Party Creators</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Packages\">Our Packages</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact Us\">Book Your Party</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"Contact Us\">Contact Us</a></li>"
         },
         {
           "_styles": {
@@ -940,7 +942,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tasty Pairs</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Meet the Party Creators\">Meet the Party Creators</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Packages\">Our Packages</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact Us\">Book Your Party</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"Contact Us\">Contact Us</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Meet the Party Creators\">Meet the Party Creators</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Our Packages\">Our Packages</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact Us\">Book Your Party</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"Contact Us\">Contact Us</a></li>"
         },
         {
           "_styles": {
